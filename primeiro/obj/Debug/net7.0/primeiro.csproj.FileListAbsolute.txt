@@ -1,0 +1,15 @@
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\bin\Debug\net7.0\primeiro.exe
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\bin\Debug\net7.0\primeiro.deps.json
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\bin\Debug\net7.0\primeiro.runtimeconfig.json
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\bin\Debug\net7.0\primeiro.dll
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\bin\Debug\net7.0\primeiro.pdb
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.AssemblyInfo.cs
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.dll
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\refint\primeiro.dll
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.pdb
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\primeiro.genruntimeconfig.cache
+C:\Users\cgtsb\OneDrive\Documentos\GitHub\atp\primeiro\obj\Debug\net7.0\ref\primeiro.dll
