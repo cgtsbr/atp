@@ -23,6 +23,5 @@
         Console.WriteLine("Resultado: {0:C}", resultado);
         int r = x % y;
         Console.WriteLine("Resto da divisão: " + r);
-        Console.ReadKey();
     }
 }
